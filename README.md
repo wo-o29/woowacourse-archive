@@ -73,10 +73,10 @@
 > [!IMPORTANT]  
 > 우아한테크코스를 진행하면서 호기심이 생긴 부분들에 대해 딥다이브 해보며 학습한 것들을 기록한 글들입니다. 
 
-- [**React에서 unmount 애니메이션 적용하기**](https://velog.io/@woogur29/React%EC%97%90%EC%84%9C-unmount-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [React에서 unmount 애니메이션 적용하기](https://velog.io/@woogur29/React%EC%97%90%EC%84%9C-unmount-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
   
-- [**requestAnimationFrame(rAF) 톺아보기**](https://velog.io/@woogur29/requestAnimationFramerAF-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [requestAnimationFrame(rAF) 톺아보기](https://velog.io/@woogur29/requestAnimationFramerAF-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
   
-- [**CommonJS(CJS), ECMAScript Modules(ESM)**](https://velog.io/@woogur29/CommonJSCJS-ECMAScript-ModulesESM)
+- [CommonJS(CJS), ECMAScript Modules(ESM)](https://velog.io/@woogur29/CommonJSCJS-ECMAScript-ModulesESM)
   
-- [**시맨틱 버저닝(Semantic Versioning)**](https://velog.io/@woogur29/%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EB%B2%84%EC%A0%80%EB%8B%9DSemantic-Versioning)
+- [시맨틱 버저닝(Semantic Versioning)](https://velog.io/@woogur29/%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EB%B2%84%EC%A0%80%EB%8B%9DSemantic-Versioning)
