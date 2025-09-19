@@ -11,7 +11,7 @@
 
 
 | 미션 | 페어 | 리뷰어 |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | [로또 - 1단계](https://github.com/woowacourse/javascript-lotto/pull/334) | [제나](https://github.com/JeLee-river) | [온스타](https://github.com/onschan) |
 | [로또 - 2단계](https://github.com/woowacourse/javascript-lotto/pull/376) | - | [온스타](https://github.com/onschan) |
 | [영화 - 1단계](https://github.com/woowacourse/javascript-movie-review/pull/210) | [클레어](https://github.com/eunsoA) | [쵸파](https://github.com/bassyu) |
@@ -31,7 +31,7 @@
 > 이를 통해 복잡한 UI 상태를 효율적으로 관리하고, 유지보수성과 확장성을 고려한 모듈화를 경험하는 과정이 포함되어 있습니다.
 
 | 미션 | 페어 | 리뷰어 |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | [장바구니 - 1단계](https://github.com/woowacourse/react-shopping-cart/pull/365) | [클레어](https://github.com/eunsoA) | [시지프](https://github.com/woowa-euijinkk) |
 | [장바구니 - 2단계](https://github.com/woowacourse/react-shopping-cart/pull/383) | - | [시지프](https://github.com/woowa-euijinkk) |
 | [상품 목록 - 1단계](https://github.com/woowacourse/react-shopping-products/pull/98) | [메이토](https://github.com/Db0111) | [도밥](https://github.com/Creative-Lee) |
@@ -63,7 +63,7 @@
 > 레벨 4에서는 
 
 | 미션 | 리뷰어 |
-| --- | --- |
+| :---: | :---: |
 | [성능 미션](https://github.com/woowacourse/perf-basecamp/pull/182) | [기린](https://github.com/jeongyou) |
 |  |  |
 
