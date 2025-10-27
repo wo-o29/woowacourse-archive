@@ -104,3 +104,15 @@
 - [CommonJS(CJS), ECMAScript Modules(ESM)](https://velog.io/@woogur29/CommonJSCJS-ECMAScript-ModulesESM)
   
 - [시맨틱 버저닝(Semantic Versioning)](https://velog.io/@woogur29/%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EB%B2%84%EC%A0%80%EB%8B%9DSemantic-Versioning)
+
+- [historyApiFallback(웹팩 SPA 설정)](https://tattered-drive-af3.notion.site/historyApiFallback-SPA-2514b5223064804ba64fdfeaac61f1ec?pvs=74)
+
+- [replace: true 옵션(히스토리 스택)](https://tattered-drive-af3.notion.site/replace-true-2514b522306480d2840ce89f53fbd87a?pvs=74)
+
+- [FE 프로덕션 배포(AWS)](https://tattered-drive-af3.notion.site/FE-AWS-2514b52230648004a297d1405477e24f?pvs=74)
+
+- [빌드 테스트 자동화](https://tattered-drive-af3.notion.site/2514b5223064802ba160d7af661052b5?pvs=74)
+
+- [이슈 설정 자동화](https://tattered-drive-af3.notion.site/2514b5223064808a8e47d207a3b10320?pvs=74)
+
+- [PR 설정 자동화](https://tattered-drive-af3.notion.site/PR-2514b5223064807188f0f72953111fea?pvs=74)
