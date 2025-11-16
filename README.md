@@ -95,7 +95,9 @@
 
 ### 작성한 글
 > [!IMPORTANT]  
-> 우아한테크코스를 진행하면서 호기심이 생긴 부분들에 대해 딥다이브 해보며 학습한 것들을 기록한 글들입니다. 
+> 우아한테크코스를 진행하면서 호기심이 생긴 부분들에 대해 딥다이브 해보며 학습한 것들을 기록한 글들입니다.
+
+- [CSR 환경에서 네트워크 변수를 최소화하여 누구에게나 평등한 웹 경험 제공하기](https://velog.io/@woogur29/CSR-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%80%EC%88%98%EB%A5%BC-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EC%97%AC-%EB%88%84%EA%B5%AC%EC%97%90%EA%B2%8C%EB%82%98-%ED%8F%89%EB%93%B1%ED%95%9C-%EC%9B%B9-%EA%B2%BD%ED%97%98-%EC%A0%9C%EA%B3%B5%ED%95%98%EA%B8%B0)
 
 - [React에서 unmount 애니메이션 적용하기](https://velog.io/@woogur29/React%EC%97%90%EC%84%9C-unmount-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
