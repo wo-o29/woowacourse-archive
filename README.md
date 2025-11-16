@@ -1,29 +1,46 @@
 # woowacourse-archive
 우아한테크코스에서 활동한 내용을 정리한 저장소
 
-### 레벨 1
+### 레벨 4
+
+> [!IMPORTANT]  
+> **학습 키워드**
+> - 성능 최적화(네트워크, 번들, 폰트, 이미지 등)
+> - 웹 접근성
+> - 렌더링 전략(CSR, SSR, ISR)
+> - SSR 서버 구축해보기(express + renderToPipeableStream)
+
+<br/>
+
+| 미션 | 리뷰어 | 내가 한 리뷰 |
+| :---: | :---: |:---: |
+| [Next.js로 Hybrid Rendering 구현하기](https://github.com/woowacourse/rendering-basecamp/pull/4) | [피터](https://github.com/guesung) | [세오의 렌더링 미션 1단계](https://github.com/woowacourse/rendering-basecamp/pull/9) |
+| [React + Node.js 로 Hybrid Rendering 구현하기](https://github.com/woowacourse/rendering-basecamp/pull/61) | [피터](https://github.com/guesung) | [세오의 렌더링 미션 2단계](https://github.com/woowacourse/rendering-basecamp/pull/108) |
+| [성능 최적화 미션](https://github.com/woowacourse/perf-basecamp/pull/182) | [기린](https://github.com/jeongyou) | [수이의 성능 최적화 미션](https://github.com/woowacourse/perf-basecamp/pull/166) |
+| [웹 접근성 미션](https://github.com/woowacourse/a11y-airline/pull/173) | [아더](https://github.com/mlnwns) | [다이앤의 웹 접근성 미션](https://github.com/woowacourse/a11y-airline/pull/155) |
+
+<br/>
+
+### 레벨 3
 
 > [!IMPORTANT]
 > **학습 키워드**
-> - 테스트 코드(단위,E2E, 테스트하기 쉬운 코드)
-> - 이벤트 루프
-> - DOM 객체
-> - 함께 자라기, 비판적 수용
-> - 페어 프로그래밍 및 코드 리뷰
+> - 협업, 소프트 스킬
+> - 사용자 관점에서 바라보기
+> - 인프라 구축 및 유지보수
 > 
 
 <br/>
 
-| 미션 | 페어 | 리뷰어 |
-| :---: | :---: | :---: |
-| [로또 - 1단계](https://github.com/woowacourse/javascript-lotto/pull/334) | [제나](https://github.com/JeLee-river) | [온스타](https://github.com/onschan) |
-| [로또 - 2단계](https://github.com/woowacourse/javascript-lotto/pull/376) | - | [온스타](https://github.com/onschan) |
-| [영화 - 1단계](https://github.com/woowacourse/javascript-movie-review/pull/210) | [클레어](https://github.com/eunsoA) | [쵸파](https://github.com/bassyu) |
-| [영화 - 2단계](https://github.com/woowacourse/javascript-movie-review/pull/235) | - | [쵸파](https://github.com/bassyu) |
-| [자동차 경주 - 1단계](https://github.com/woowacourse/javascript-racingcar/pull/331) | [아더](https://github.com/mlnwns) | [카일](https://github.com/igy95) |
-| [자동차 경주 - 2단계](https://github.com/woowacourse/javascript-racingcar/pull/375) | - | [카일](https://github.com/igy95) |
-| [점심 뭐 먹지 - 1단계](https://github.com/woowacourse/javascript-lunch/pull/181) | [마빈](https://github.com/spoyodevelop) | [케빈](https://github.com/JeongBin0227) |
-| [점심 뭐 먹지 - 2단계](https://github.com/woowacourse/javascript-lunch/pull/226) | - | [케빈](https://github.com/JeongBin0227) |
+레벨 3에서는 `모아온`이라는 팀 프로젝트를 통해 타 직군과 협업하며 협업 프로세스와 커뮤니케이션 스킬을 익혔고, 실제 서비스 구현과 배포에 필요한 종합적인 개발 역량을 쌓았습니다. 
+
+`모아온`은 분산된 프로젝트 맥락과 아티클을 주제와 기술 스택 중심으로 통합하고 양방향 연결 기능(프로젝트 ↔ 아티클)을 도입해 정보 탐색의 불편함을 해결한 서비스입니다.
+
+
+- [모아온 서비스 링크](https://moaon.co.kr)
+
+- [모아온 깃허브 레포지토리 링크](https://github.com/woowacourse-teams/2025-moaon)
+
 
 <br/>
 
@@ -52,44 +69,30 @@
 
 <br/>
 
-### 레벨 3
+
+### 레벨 1
 
 > [!IMPORTANT]
 > **학습 키워드**
-> - 협업, 소프트 스킬
-> - 프로덕트 관점에서 바라보기
-> - 인프라 구축 및 유지보수
+> - 테스트 코드(단위,E2E, 테스트하기 쉬운 코드)
+> - 이벤트 루프
+> - DOM 객체
+> - 함께 자라기, 비판적 수용
+> - 페어 프로그래밍 및 코드 리뷰
 > 
 
 <br/>
 
-레벨 3에서는 `모아온`이라는 팀 프로젝트를 통해 타 직군과 협업하며 협업 프로세스와 커뮤니케이션 스킬을 익혔고, 실제 서비스 구현과 배포에 필요한 종합적인 개발 역량을 쌓았습니다. 
-
-`모아온`은 분산된 프로젝트 맥락과 아티클을 주제와 기술 스택 중심으로 통합하고 양방향 연결 기능(프로젝트 ↔ 아티클)을 도입해 정보 탐색의 불편함을 해결한 서비스입니다.
-
-
-- [모아온 서비스 링크](https://moaon.co.kr)
-
-- [모아온 깃허브 레포지토리 링크](https://github.com/woowacourse-teams/2025-moaon)
-
-
-<br/>
-
-### 레벨 4
-
-> [!IMPORTANT]  
-> **학습 키워드**
-> - 성능 최적화(네트워크, 번들, 폰트, 이미지 등)
-> - 웹 접근성
-> - 렌더링 전략(CSR, SSR, ISR)
-> - SSR 서버 구축해보기(express + renderToPipeableStream)
-
-| 미션 | 리뷰어 | 내가 한 리뷰 |
-| :---: | :---: |:---: |
-| [성능 최적화 미션](https://github.com/woowacourse/perf-basecamp/pull/182) | [기린](https://github.com/jeongyou) | [수이의 성능 최적화 미션](https://github.com/woowacourse/perf-basecamp/pull/166) |
-| [웹 접근성 미션](https://github.com/woowacourse/a11y-airline/pull/173) | [아더](https://github.com/mlnwns) | [다이앤의 웹 접근성 미션](https://github.com/woowacourse/a11y-airline/pull/155) |
-| [Next.js로 Hybrid Rendering 구현하기](https://github.com/woowacourse/rendering-basecamp/pull/4) | [피터](https://github.com/guesung) | [세오의 렌더링 미션 1단계](https://github.com/woowacourse/rendering-basecamp/pull/9) |
-| [React + Node.js 로 Hybrid Rendering 구현하기](https://github.com/woowacourse/rendering-basecamp/pull/61) | [피터](https://github.com/guesung) | [세오의 렌더링 미션 2단계](https://github.com/woowacourse/rendering-basecamp/pull/108) |
+| 미션 | 페어 | 리뷰어 |
+| :---: | :---: | :---: |
+| [로또 - 1단계](https://github.com/woowacourse/javascript-lotto/pull/334) | [제나](https://github.com/JeLee-river) | [온스타](https://github.com/onschan) |
+| [로또 - 2단계](https://github.com/woowacourse/javascript-lotto/pull/376) | - | [온스타](https://github.com/onschan) |
+| [영화 - 1단계](https://github.com/woowacourse/javascript-movie-review/pull/210) | [클레어](https://github.com/eunsoA) | [쵸파](https://github.com/bassyu) |
+| [영화 - 2단계](https://github.com/woowacourse/javascript-movie-review/pull/235) | - | [쵸파](https://github.com/bassyu) |
+| [자동차 경주 - 1단계](https://github.com/woowacourse/javascript-racingcar/pull/331) | [아더](https://github.com/mlnwns) | [카일](https://github.com/igy95) |
+| [자동차 경주 - 2단계](https://github.com/woowacourse/javascript-racingcar/pull/375) | - | [카일](https://github.com/igy95) |
+| [점심 뭐 먹지 - 1단계](https://github.com/woowacourse/javascript-lunch/pull/181) | [마빈](https://github.com/spoyodevelop) | [케빈](https://github.com/JeongBin0227) |
+| [점심 뭐 먹지 - 2단계](https://github.com/woowacourse/javascript-lunch/pull/226) | - | [케빈](https://github.com/JeongBin0227) |
 
 <br/>
 
