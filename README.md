@@ -14,8 +14,8 @@
 
 | 미션 | 리뷰어 | 내가 한 리뷰 |
 | :---: | :---: |:---: |
-| [Next.js로 Hybrid Rendering 구현하기](https://github.com/woowacourse/rendering-basecamp/pull/4) | [피터](https://github.com/guesung) | [세오의 렌더링 미션 1단계](https://github.com/woowacourse/rendering-basecamp/pull/9) |
 | [React + Node.js 로 Hybrid Rendering 구현하기](https://github.com/woowacourse/rendering-basecamp/pull/61) | [피터](https://github.com/guesung) | [세오의 렌더링 미션 2단계](https://github.com/woowacourse/rendering-basecamp/pull/108) |
+| [Next.js로 Hybrid Rendering 구현하기](https://github.com/woowacourse/rendering-basecamp/pull/4) | [피터](https://github.com/guesung) | [세오의 렌더링 미션 1단계](https://github.com/woowacourse/rendering-basecamp/pull/9) |
 | [성능 최적화 미션](https://github.com/woowacourse/perf-basecamp/pull/182) | [기린](https://github.com/jeongyou) | [수이의 성능 최적화 미션](https://github.com/woowacourse/perf-basecamp/pull/166) |
 | [웹 접근성 미션](https://github.com/woowacourse/a11y-airline/pull/173) | [아더](https://github.com/mlnwns) | [다이앤의 웹 접근성 미션](https://github.com/woowacourse/a11y-airline/pull/155) |
 
