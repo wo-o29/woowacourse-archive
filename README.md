@@ -104,7 +104,7 @@
 
 - [React에서 unmount 애니메이션 적용하기](https://velog.io/@woogur29/React%EC%97%90%EC%84%9C-unmount-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
-- [많은 DOM도 부담 없이, 화면에 보이는 것만 렌더링하는 가상 리스트 최적화](https://github.com/wo-o29/woowa-writing/blob/main/Lv.4/%E3%85%87_%E3%85%87.md)
+- [많은 DOM도 부담 없이, 화면에 보이는 것만 렌더링하는 가상 리스트 최적화](https://medium.com/@woogur29/%EB%A7%8E%EC%9D%80-dom%EB%8F%84-%EB%B6%80%EB%8B%B4-%EC%97%86%EC%9D%B4-%ED%99%94%EB%A9%B4%EC%97%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%83%EB%A7%8C-%EB%A0%8C%EB%8D%94%EB%A7%81%ED%95%98%EB%8A%94-%EA%B0%80%EC%83%81-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94-a22df58914da)
   
 - [requestAnimationFrame(rAF) 톺아보기](https://velog.io/@woogur29/requestAnimationFramerAF-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
   
